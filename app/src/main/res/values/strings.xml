@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab5bai3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_chat">Nhắn tin</string>
+    <string name="title_map">Bản đồ</string>
+    <string name="title_collec">Hình ảnh</string>
+</resources>
